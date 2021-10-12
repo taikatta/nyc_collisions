@@ -19,7 +19,7 @@ chardet==3.0.4
 Click==7.0
 decorator==4.4.0
 defusedxml==0.6.0
-Django==3.2.4
+Django==3.2.8
 dnspython==1.16.0
 docutils==0.15.2
 entrypoints==0.3
@@ -60,7 +60,7 @@ mistune==0.8.4
 more-itertools==8.4.0
 nbconvert==5.5.0
 nbformat==4.4.0
-notebook==6.4.1
+notebook==6.1.5
 numpy==1.18.4
 oauthlib==3.1.0
 packaging==20.4
@@ -70,7 +70,7 @@ parso==0.4.0
 pathtools==0.1.2
 pexpect==4.7.0
 pickleshare==0.7.5
-Pillow==8.2.0
+Pillow==8.3.2
 plotly==4.8.1
 pluggy==0.13.1
 prometheus-client==0.6.0
